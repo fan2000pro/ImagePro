@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img src="" alt="https://shields.microej.com/badge/Version-1.0.0-blue">
+   <img src="https://shields.microej.com/badge/Version-1.0.0-blue" alt="Version">
 </p>
 
 ## About
